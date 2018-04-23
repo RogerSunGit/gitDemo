@@ -1,3 +1,4 @@
 test3
-line1: version 1
-line2: version 2
+line1: version 3
+line2: version 3
+line3: version 3
